@@ -1,0 +1,22 @@
+@mixin auto-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin left_panel {
+    flex: 1;
+    height: 100%;
+    padding: 20px 50px 0 0;
+    box-sizing: border-box;
+    border-right: 1px solid #334c6d;
+}
+
+@mixin right_panel {
+    width: 1650px;
+    height: 100%;
+    padding: 20px 30px 0 50px;
+    box-sizing: border-box;
+    border-left: 1px solid #10192c;
+    display: flex;
+}

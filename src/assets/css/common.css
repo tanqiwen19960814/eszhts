@@ -1,0 +1,23 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+}
+
+.clearfloat:after {
+  content: "";
+  height: 0;
+  line-height: 0;
+  clear: both;
+  overflow: hidden;
+}
+
+.clearfloat {
+  overflow: hidden;
+}

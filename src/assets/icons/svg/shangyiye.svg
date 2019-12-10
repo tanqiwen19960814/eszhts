@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="电子质证" transform="translate(-2493.000000, -772.000000)">
+            <g id="编组" transform="translate(2493.000000, 772.000000)">
+                <circle id="椭圆形备份" fill="#0061FF" cx="25" cy="25" r="25"></circle>
+                <g id="上一页" transform="translate(12.000000, 14.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="22" height="22"></rect>
+                    <path d="M9.51556538,11.0010233 L17.4521845,3.15630901 C18.1825171,2.43419932 18.1825171,1.26367656 17.4521845,0.541566867 C17.1014949,0.19481411 16.6257824,0 16.1297437,0 C15.633705,0 15.1579925,0.19481411 14.807303,0.541566867 L5.54774947,9.6934083 C4.81741684,10.415518 4.81741684,11.5860407 5.54774947,12.3081504 L14.807303,21.4585281 C15.2797655,21.9255196 15.9683947,22.1079006 16.6137906,21.9369699 C17.2591865,21.7660391 17.7632981,21.267765 17.9362314,20.6298427 C18.1091647,19.9919204 17.9246471,19.3112654 17.4521845,18.8442739 L9.51556538,11.0010233 Z" id="路径" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

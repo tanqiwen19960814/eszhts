@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>文本</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智慧阅卷" transform="translate(-1002.000000, -524.000000)">
+            <g id="文本" transform="translate(1002.000000, 524.000000)">
+                <g>
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <polygon id="路径" fill="#4185F4" fill-rule="nonzero" opacity="0.5" points="0.66666666 0.66666666 15.3333333 0.66666666 15.3333333 4.66666666 19.3333333 4.66666666 19.3333333 19.3333333 0.66666666 19.3333333"></polygon>
+                    <polygon id="路径" fill="#4185F4" fill-rule="nonzero" points="3.33333334 3.33333334 12.6666667 3.33333334 12.6666667 4.66666666 3.33333334 4.66666666"></polygon>
+                    <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="3.33333334 7.33333334 14 7.33333334 14 8.66666666 3.33333334 8.66666666"></polygon>
+                    <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="3.33333334 11.3333333 14 11.3333333 14 12.6666667 3.33333334 12.6666667"></polygon>
+                    <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="3.33333334 15.3333333 14 15.3333333 14 16.6666667 3.33333334 16.6666667"></polygon>
+                    <path d="M15.3333333,7.33333334 L16.6666667,7.33333334 L16.6666667,8.66666666 L15.3333333,8.66666666 L15.3333333,7.33333334 Z M15.3333333,11.3333333 L16.6666667,11.3333333 L16.6666667,12.6666667 L15.3333333,12.6666667 L15.3333333,11.3333333 Z M15.3333333,15.3333333 L16.6666667,15.3333333 L16.6666667,16.6666667 L15.3333333,16.6666667 L15.3333333,15.3333333 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="路径" fill="#4691EE" fill-rule="nonzero" points="15.3333333 4.66666666 15.3333333 0.66666666 19.3333333 4.66666666"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

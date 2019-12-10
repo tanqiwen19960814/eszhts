@@ -1,0 +1,23 @@
+# replace default config
+
+# multipass: true
+# full: true
+
+plugins:
+
+  # - name
+  #
+  # or:
+  # - name: false
+  # - name: true
+  #
+  # or:
+  # - name:
+  #     param1: 1
+  #     param2: 2
+  
+## 删除svg文件中自带的填充色，避免@c/CSvgIcon.vue中默认的fill:currentColor无效或者自定义颜色无效
+- removeAttrs:
+    attrs:
+      - 'fill'
+      - 'fill-rule'

@@ -1,0 +1,23 @@
+/* 苹方字体 */
+@font-face {
+    font-family: 'PingFang';
+    src: url('PingFang.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 百度综艺简体 */
+@font-face {
+    font-family: 'JZhongYi';
+    src: url('JZhongYi.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 汉仪魏碑简 */
+@font-face {
+    font-family: 'HYWBJ';
+    src: url('HYWBJ.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

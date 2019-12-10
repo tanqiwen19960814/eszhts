@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>添加备份 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智慧阅卷" transform="translate(-160.000000, -1003.000000)" fill-rule="nonzero">
+            <g id="操作" transform="translate(16.000000, 859.000000)">
+                <g id="添加备份-3" transform="translate(155.000000, 155.000000) rotate(45.000000) translate(-155.000000, -155.000000) translate(141.000000, 141.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="-2.27373675e-13" y="0" width="28" height="28"></rect>
+                    <path d="M14,28 L14,28 C12.95,28 12.25,27.3 12.25,26.25 L12.25,1.75 C12.25,0.875 12.95,0 14,0 L14,0 C14.875,0 15.75,0.7 15.75,1.75 L15.75,26.25 C15.75,27.3 15.05,28 14,28 Z M-2.27373675e-13,14 L-2.27373675e-13,14 C-2.27373675e-13,12.95 0.7,12.25 1.75,12.25 L26.25,12.25 C27.125,12.25 28,12.95 28,14 L28,14 C28,14.875 27.3,15.75 26.25,15.75 L1.75,15.75 C0.7,15.75 -2.27373675e-13,15.05 -2.27373675e-13,14 Z" id="形状" fill="#6D0000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
